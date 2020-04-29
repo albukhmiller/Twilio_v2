@@ -1,0 +1,23 @@
+{
+  "chatClient": {
+    "options": {
+      "logLevel": "info"
+    }
+  },
+  "tokenGenerator": {
+    "accountSid": "ACcd85d2f42525eb1223da801d428ca353",
+    "signingKeySid": "SK27afd818e7fad7add84421e7d80f2ce7",
+    "signingKeySecret": "O7h0zsVvu8bDJZWwgtDwThTOpuqMtM30",
+    "serviceSid": "ISxxx",
+    "fcm": "CRxxx",
+    "apns": "CRxxx"
+  },
+  "ngrok": {
+    "subdomain": "http://localhost:3002",
+    "basicAuth": {
+      "username": "someusername",
+      "password": "somepassword"
+    }
+  }
+}
+

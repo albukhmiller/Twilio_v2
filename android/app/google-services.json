@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "986803572069",
+    "firebase_url": "https://twilio-chat-app-40bbd.firebaseio.com",
+    "project_id": "twilio-chat-app-40bbd",
+    "storage_bucket": "twilio-chat-app-40bbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986803572069:android:db68f6919e733c273c258c",
+        "android_client_info": {
+          "package_name": "com.sharpdev.twilio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986803572069-7v453vjaj5l0o020hd0dfebnqrm6ke20.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgSz2mgN3h1hwebMYJ83rXF0-TsRBKJXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986803572069-7v453vjaj5l0o020hd0dfebnqrm6ke20.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
