@@ -6,17 +6,16 @@
   },
   "tokenGenerator": {
     "accountSid": "ACcd85d2f42525eb1223da801d428ca353",
-    "signingKeySid": "SK27afd818e7fad7add84421e7d80f2ce7",
-    "signingKeySecret": "O7h0zsVvu8bDJZWwgtDwThTOpuqMtM30",
-    "serviceSid": "ISxxx",
-    "fcm": "CRxxx",
-    "apns": "CRxxx"
+    "signingKeySid": "SK9fd9a4b2ec4d17f8a7d8fb77c2df6763",
+    "signingKeySecret": "K7s6eFLwe6nBk2bhm5Bfpe0KrbAweWcO",
+    "serviceSid": "IS0c8c2cef34b542d1a9128fbb6aa59c58",
+    "fcm": "CR2d3c15c5d45d5484ee081165be9c0a3a"
   },
   "ngrok": {
-    "subdomain": "http://localhost:3002",
+    "subdomain": "somedomain",
     "basicAuth": {
-      "username": "someusername",
-      "password": "somepassword"
+      "username": "twilio@sharp-dev.net",
+      "password": "!12345Sharp54321!"
     }
   }
 }
