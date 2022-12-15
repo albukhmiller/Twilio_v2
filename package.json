@@ -15,7 +15,7 @@
     "events": "^2.0.0",
     "react": "^16.8.6",
     "react-native": "^0.59.8",
-    "twilio-chat": "^3.3.7",
+    "twilio-chat": "^6.0.0",
     "util": "^0.12.0"
   },
   "devDependencies": {
